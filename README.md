@@ -1,4 +1,3 @@
-```markdown
 # Ollama 服务扫描工具集
 
 GitHub 仓库: [https://github.com/wrongwe/Ollama-scanner](https://github.com/wrongwe/Ollama-scanner)
