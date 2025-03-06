@@ -82,7 +82,7 @@ python Ollama_scanner.py
 python Ollama_valid_scanner.py
 ```
 
-### 输入文件格式
+### 输入文件格式（数据可以在fofa等搜索引擎中用app="Ollama"来收集）
 ```
 example.com
 192.168.1.1:11435
