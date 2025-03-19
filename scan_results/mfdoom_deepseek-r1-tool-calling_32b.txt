@@ -1,0 +1,3 @@
+MFDoom/deepseek-r1-tool-calling:32b 所有节点 (1)
+
+1.202.26.70:11434

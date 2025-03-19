@@ -1,0 +1,3 @@
+Huzderu/deepseek-r1-671b-2.51bit:latest 所有节点 (1)
+
+36.248.221.94:11434

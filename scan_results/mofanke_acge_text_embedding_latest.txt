@@ -1,0 +1,3 @@
+mofanke/acge_text_embedding:latest 所有节点 (1)
+
+1.202.26.70:11434

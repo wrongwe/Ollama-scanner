@@ -1,0 +1,3 @@
+aerok/xiaobu-embedding-v2:latest 所有节点 (1)
+
+123.58.249.101:85
